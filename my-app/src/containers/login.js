@@ -1,8 +1,7 @@
 import React from 'react';
 
-function login(){
-    return 
-    (
+function Login(){
+    return( 
         <div>
             <h1>User Profile</h1>
         </div>
@@ -10,5 +9,5 @@ function login(){
 
 }
 
-export default login;
-// default for if we want to export the whole login page
+export default Login;
+// default for if we want to export the whole Login page

@@ -1,8 +1,7 @@
 import React from 'react';
 
 function CreateAccountForm(){
-    return
-    (
+    return(
         <div>
             <h1>CreateAccountForm</h1>
         </div>

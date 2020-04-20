@@ -1,8 +1,7 @@
 import React from 'react';
 
-function createAccount(){
-    return 
-    (
+function CreateAccount(){
+    return( 
         <div>
             <h1>Create Account</h1>
         </div>
@@ -10,4 +9,9 @@ function createAccount(){
 
 }
 
-export default createAccount;
+export default CreateAccount;
+
+/*
+    component: the elements that you've created to use a tags
+    container: holding those elements
+*/

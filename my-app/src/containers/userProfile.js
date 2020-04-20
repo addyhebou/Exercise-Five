@@ -1,8 +1,7 @@
 import React from 'react';
 
-function userProfile(){
-    return
-    (
+function UserProfile(){
+    return(
         <div>
             <h1>User Profile</h1>
         </div>
@@ -10,4 +9,4 @@ function userProfile(){
 
 }
 
-export default userProfile;
+export default UserProfile;
