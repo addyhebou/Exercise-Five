@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.SignupForm{
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 40px auto;
+
+}
+.SignupForm input{
+  margin-bottom: 30px;
+}
